@@ -1,0 +1,63 @@
+*{
+    font-family: 'Noto Sans KR', sans-serif;
+    margin:0px;
+    padding:0px;
+    color:black;
+}
+.main{
+    background-image: url("flash-4244923_1920.png");
+    padding: 250px;
+}
+.main>h1{
+    color: white;
+    margin:auto;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 50%;
+}
+.inf{
+    background: rgb(40, 40, 40);
+    display: flex;
+    flex: 3;
+    padding: 50px;
+}
+.inf>div{
+    margin:auto;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.pictures{
+    background: rgb(40, 40, 40);
+    display: flex;
+    flex: 3;
+    padding: 50px;
+}
+.pictures>div{
+    margin:auto;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+.image{
+    width: 1280px;
+    display: flex;
+    margin: 49px auto;
+    height: 400px;
+}
+.image>.contents{
+    padding: 90px;
+    color: black;
+    font-size: 20px;
+}
+.image2{
+    width: 1280px;
+    display: flex;
+    margin: 49px auto;
+    height: 400px;
+}
+.image2>.contents{
+    padding: 100px;
+    color: black;
+    font-size: 20px;
+}
